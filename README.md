@@ -1,6 +1,5 @@
-#Project in Statistical computing
-#Project Title: Development of Nonparametric Kruskal-Wallis Test in R
-#Write a  R script to perform the nonparametric Kruskal Wallis test. The output variable is the probability value of the test.
+
+#Project Title: Development of Nonparametric Kruskal-Wallis Test in R and Matlab. The output variable is the probability value of the test.
 
 kruskalwallis.test <- function(x, g) {
   
